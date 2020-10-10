@@ -57,7 +57,7 @@ Here, you can store your code and projects. You can also follow these steps to f
 
 ## Git Basics
 
-:information_source:*Robotics. You can create an account, for free, [here](https://github.com/). You will most likely be asked to sign into a GitHub account when working with Git and pushing to GitHub, so remember your login credentials.*
+:information_source:*It is a very good idea to have a GitHub account when working with Git, and will be required in Robotics. You can create an account, for free, [here](https://github.com/). You will most likely be asked to sign into a GitHub account when working with Git and pushing to GitHub, so remember your login credentials.*
 
 ### Creating a New Repository
 
