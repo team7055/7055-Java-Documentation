@@ -5,7 +5,7 @@ This is the documentation for Team 7055 - Quantum Steam. The following documents
 
 # Table of Contents
 
-- Recommendations of Knowledge
+- [Recommendations of Knowledge](https://github.com/team7055/7055-Java-Documentation/tree/main/Recommendations%20Of%20Knowledge)
 - Useful Links
 - Getting Started
     - Introduction
