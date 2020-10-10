@@ -5,10 +5,10 @@ This is the documentation for Team 7055 - Quantum Steam. The following documents
 
 # Table of Contents
 
-## Recommendations of Knowledge
-## Getting Started
-- Introduction
-- Sofware Component Overview
+- Recommendations of Knowledge
+- Getting Started
+    - Introduction
+    - Sofware Component Overview
 
 
 
