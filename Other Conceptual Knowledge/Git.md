@@ -32,12 +32,12 @@ You are now done! You can launch git bash through the start menu (Windows search
 
 When opened, your git bash terminal should look roughly like this:
 
-![Terminal](../images/git1.jpg)
+![Terminal](../images/git1.png)
 In green, it should say your desktop's name/ID
 
 The command line is essentially just the File Browser in text form. Just like you can click to go to different folders, you can enter different folders here. Use the **ls** (list) command to list all of the files and directories (folders) from your current directory (folder).
 
-![Terminal](../images/git2.jpg)
+![Terminal](../images/git2.png)
 Yours should look similar but not the same.
 
 Every item with a / at the end means it is a folder, or directory. If it does not have the /, it is a file.
@@ -46,11 +46,11 @@ Let's navigate to the Desktop folder. Because Windows is stupid, my desktop fold
 
 To enter another folder, simply use the **cd** (change directory) command.
 
-![Terminal](../images/git3.jpg)
+![Terminal](../images/git3.png)
 
 You can tell you've entered the directory when the yellow text above the $ changes from "~" to "~/FOLDERNAME" (not actually FOLDERNAME, just the name of the folder you cd into). This yellow text gives you the path of your current working directory, or in other words, the directories you needed to enter in order to get where you are now. The single "~" simply indicates the root directory.
 To get to the Desktop directory, we can simply cd into it like so. I used ls here to verify that Desktop was inside of OneDrive directory.
 
-![Terminal](../images/git4.jpg)
+![Terminal](../images/git4.png)
 
 Here, you can store your code and projects. You can also follow these steps to find a project in any other directory, such as Documents.
