@@ -9,6 +9,20 @@ This is the documentation for Team 7055 - Quantum Steam. The following documents
 - Getting Started
     - Introduction
     - Sofware Component Overview
-
+- Newbie Section
+    - Welcome Newbies
+    - Github
+    - Visual Studio Code
+- Command Based Programming
+    - What is Command Based Programming
+    - Subsystems
+    - Commands
+    - How commands are run and scheduled
+    - Subsytem Design
+    - Command Design
+    - Project Stucture
+- Other Conceptual Knowledge
+    - Object Oriented Programming
+    - Git
 
 
