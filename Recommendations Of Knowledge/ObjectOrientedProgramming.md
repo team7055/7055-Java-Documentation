@@ -15,3 +15,30 @@ int num;
 ```
 
 A variable name can be anything, sans a few exceptions you will most likely not run into. Variables can also be assigned values with the = operator. This can happen on the same line as the variable declaration, or on a new line.
+
+```java
+int x = 0;
+x = 3;
+```
+
+Notice in Java you do not need to reference the type of the variable after you declare it. This is how Java tells if you are making a new variable or referencing an old variable.
+
+### Types
+
+Unlike some other programming languages, such as JavaScript or Python, Java variables must be declared with a type. The type of a variable can never change. You can of course implement custom types with classes, enums, etc.
+
+For more information, visit [here](https://en.wikipedia.org/wiki/Data_type)
+
+### Good Practice
+
+Variable names should be as short as possible while still easily indicating what the variable holds. You should not be the only one who knows what a variable is supposed to do!
+
+```java
+// Bad variable name
+int numberOfTimesArmHasRotated = 0;
+
+// Good varaible name
+int numTimesRotated = 0;
+```
+
+For more information on variables, visit [here](https://en.wikipedia.org/wiki/Variable_(computer_science))
